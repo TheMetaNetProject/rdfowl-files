@@ -1,0 +1,32 @@
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 7 startIndex: 0 endIndex: 50
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 15 startIndex: 50 endIndex: 100
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 23 startIndex: 100 endIndex: 150
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 31 startIndex: 150 endIndex: 200
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 39 startIndex: 200 endIndex: 250
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 47 startIndex: 250 endIndex: 300
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 55 startIndex: 300 endIndex: 350
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 63 startIndex: 350 endIndex: 400
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: source/target roles are null for mapping in Metaphor:بروکراسی قابل اندازه گیری است
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: metaphor Metaphor:توانایی دانستن، توانایی دیدن است is missing target/schema.  Cannot create role mappings.
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: metaphor Metaphor:توانایی دانستن، توانایی دیدن است is missing target/schema.  Cannot create role mappings.
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 71 startIndex: 400 endIndex: 450
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 79 startIndex: 450 endIndex: 500
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 87 startIndex: 500 endIndex: 550
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 95 startIndex: 550 endIndex: 600
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 95 startIndex: 600 endIndex: 631

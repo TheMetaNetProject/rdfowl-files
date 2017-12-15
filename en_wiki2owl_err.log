@@ -1,0 +1,100 @@
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 3 startIndex: 0 endIndex: 50
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 6 startIndex: 50 endIndex: 100
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 9 startIndex: 100 endIndex: 150
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 13 startIndex: 150 endIndex: 200
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Schema:Competitive sport
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 16 startIndex: 200 endIndex: 250
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 19 startIndex: 250 endIndex: 300
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 22 startIndex: 300 endIndex: 350
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Schema:Government institution US
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 26 startIndex: 350 endIndex: 400
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 29 startIndex: 400 endIndex: 450
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 32 startIndex: 450 endIndex: 500
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 35 startIndex: 500 endIndex: 550
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Schema:Relationship
+Aug 08, 2014 4:01:10 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 39 startIndex: 550 endIndex: 600
+Aug 08, 2014 4:01:11 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 42 startIndex: 600 endIndex: 650
+Aug 08, 2014 4:01:11 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 45 startIndex: 650 endIndex: 700
+Aug 08, 2014 4:01:11 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 49 startIndex: 700 endIndex: 750
+Aug 08, 2014 4:01:11 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 52 startIndex: 750 endIndex: 800
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 55 startIndex: 800 endIndex: 850
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:CONSUMING RESOURCES IS EATING
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 58 startIndex: 850 endIndex: 900
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 62 startIndex: 900 endIndex: 950
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:EVENTS ARE OBJECTS
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 65 startIndex: 950 endIndex: 1000
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:GOODNESS IS VERTICALITY
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:GOVERNMENT INSTITUTION ENCOUNTERING PROBLEMS IS AN UNHEALTHY PERSON
+Aug 08, 2014 4:01:12 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 68 startIndex: 1000 endIndex: 1050
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:GREED IS HUNGER
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 71 startIndex: 1050 endIndex: 1100
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 75 startIndex: 1100 endIndex: 1150
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:LAWS ARE PLANTS
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:LAWS ARE PLANTS
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 78 startIndex: 1150 endIndex: 1200
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: source/target roles are null for mapping in Metaphor:MORAL CORRUPTION IS A DESTRUCTIVE FORCE
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: source/target roles are null for mapping in Metaphor:MORAL CORRUPTION IS A DESTRUCTIVE FORCE
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 81 startIndex: 1200 endIndex: 1250
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:OVER-CONSUMPTION OF RESOURCES IS OVEREATING
+Aug 08, 2014 4:01:13 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 85 startIndex: 1250 endIndex: 1300
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POSITIVITY IS VERTICALITY
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POSITIVITY IS VERTICALITY
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER IS A POSSESSED OBJECT
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER IS A POSSESSED OBJECT
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER IS A POSSESSED OBJECT
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER IS A POSSESSED OBJECT
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 88 startIndex: 1300 endIndex: 1350
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 91 startIndex: 1350 endIndex: 1400
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 94 startIndex: 1400 endIndex: 1450
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 98 startIndex: 1450 endIndex: 1500
+Aug 08, 2014 4:01:14 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 98 startIndex: 1500 endIndex: 1529

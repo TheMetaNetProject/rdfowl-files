@@ -1,0 +1,72 @@
+create memory.
+mr_en
+English Metaphor Repository
+false
+
+
+create memory.
+mr_es
+Spanish Metaphor Repository
+false
+
+
+create memory.
+mr_fa
+Persian Metaphor Repository
+false
+
+
+create memory.
+mr_ru
+Russian Metaphor Repository
+false
+
+
+create memory.
+dproc0
+Doc Proc 0
+false
+
+
+create memory.
+dproc1
+Doc Proc 1
+false
+
+
+create memory.
+dproc2
+Doc Proc 2
+false
+
+
+create memory.
+dproc3
+Doc Proc 3
+false
+
+
+create memory.
+dproc4
+Doc Proc 4
+false
+
+
+create memory.
+dproc5
+Doc Proc 5
+false
+
+
+create memory.
+dproc6
+Doc Proc 6
+false
+
+
+create memory.
+dproc7
+Doc Proc 7
+false
+
+

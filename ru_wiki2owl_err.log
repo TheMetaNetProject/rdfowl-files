@@ -1,0 +1,28 @@
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 9 startIndex: 0 endIndex: 50
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 18 startIndex: 50 endIndex: 100
+Aug 08, 2014 4:01:07 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 27 startIndex: 100 endIndex: 150
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 36 startIndex: 150 endIndex: 200
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 46 startIndex: 200 endIndex: 250
+Aug 08, 2014 4:01:08 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 55 startIndex: 250 endIndex: 300
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 64 startIndex: 300 endIndex: 350
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: metaphor Metaphor:ИЗМЕНЕНИЕ СОСТОЯНИЯ - ЭТО ИЗМЕНЕНИЕ МЕСТОНАХОЖДЕНИЯ is missing target/schema.  Cannot create role mappings.
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: metaphor Metaphor:ИЗМЕНЕНИЕ СОСТОЯНИЯ - ЭТО ИЗМЕНЕНИЕ МЕСТОНАХОЖДЕНИЯ is missing target/schema.  Cannot create role mappings.
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: metaphor Metaphor:ИЗМЕНЕНИЕ СОСТОЯНИЯ - ЭТО ИЗМЕНЕНИЕ МЕСТОНАХОЖДЕНИЯ is missing target/schema.  Cannot create role mappings.
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 73 startIndex: 350 endIndex: 400
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 83 startIndex: 400 endIndex: 450
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 92 startIndex: 450 endIndex: 500
+Aug 08, 2014 4:01:09 PM edu.berkeley.icsi.metanet.wiki2owl.WikiParser importWiki
+SEVERE: Progress: 92 startIndex: 500 endIndex: 541
